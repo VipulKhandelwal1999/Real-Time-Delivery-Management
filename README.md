@@ -2,7 +2,7 @@
 
 Real Time Delivery Management App Will Allow You To Visualize The Algorithm Working behind seamless delivery services on logistics-based apps such as Swiggy, Zomato, and Dunzo.<br>
 
-### [Live Site]()
+### [Live Site](https://real-time-delivery-management.netlify.app/)
 
 ## NOTES
 
