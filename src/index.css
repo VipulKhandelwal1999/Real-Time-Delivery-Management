@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #a4def9;
+  text-transform: uppercase;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: 'Roboto', sans-serif;
+}
